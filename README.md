@@ -6,7 +6,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.31-red.svg)](https://streamlit.io/)
 [![Claude](https://img.shields.io/badge/Claude-Sonnet%204-purple.svg)](https://www.anthropic.com/)
 
-[🔗 Live Demo](#) | [📧 Contact](mailto:your.email@example.com)
+[🔗 Live Demo: Coming Soon | [📧 Contact](mailto:mark.zaborniak@.com)
 
 ---
 
@@ -193,8 +193,8 @@ This demonstrates key competencies for AI Product roles:
 
 ## 📫 Contact
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email:** mark.zaborniak@.com
+- **LinkedIn:** [linkedin.com/in/mark-zaborniak-8439b8274](https://linkedin.com/in/mark-zaborniak-8439b8274)
 - **GitHub:** [github.com/MZabDev](https://github.com/MZabDev)
 
 ---
